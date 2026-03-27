@@ -11,16 +11,16 @@ libusb1==3.1.0
 matplotlib==3.8.1
 more-itertools==10.1.0
 networkx==3.2.1
-pycryptodome==3.19.0
+pycryptodome==3.19.1
 # TODO: Use pyvisa instead after switching to a dedicated PRNG
 python-vxi11==0.9
 pyyaml==6.0.1
-ray==2.8.0
+ray==2.49.2
 scared==1.1.0
 scipy==1.11.3
 sqlalchemy==2.0.23
 sqlalchemy_utils==0.41.1
-tqdm==4.66.1
+tqdm==4.66.3
 trsfile==2.2.0
 typer==0.9.0
 wheel==0.41.3
